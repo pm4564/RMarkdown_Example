@@ -1,0 +1,63 @@
+---
+title: "The Jefferis Lab"
+bibliography: website_references.bib
+link-citations: yes
+
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+---
+
+To make own website, would be best to find an rmarkdown website that you really like and copy it. 
+
+# Neural Circuits and Behaviour {#research-background}
+
+  We study how the **structure** of brain circuits *relates* to behavioural **output**. 
+  
+  Geosmin as an example of a labelled line [@huoviala2018neural].
+  
+  
+# Innate circuitry
+
+  The lateral horn
+  
+
+## Images
+
+![The *Drosophila* Olfactory System](img/Fly_Olf_sys_with_label.png)
+
+
+
+
+## Tables
+
+Better to include as images, because the only way to make tables in markdown, you have to write it out explicitly;
+
+| Column 1 | Column 2|
+|----------|---------|
+|     1    |    2    |
+|     3    |    4    |
+|     5    |    6    |
+
+
+## Blocks of code
+
+```
+
+Library(tidyverse)
+
+```
+
+\
+
+
+
+# References
+
+
+
+
+
+

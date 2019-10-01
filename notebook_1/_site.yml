@@ -1,0 +1,14 @@
+name: "Philip Myers"
+navbar:
+  title: "Philip Myers"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Home"
+      href: index.html
+    - text: "Analysis"
+      href: Analysis.html
+    - text: "Connectomics"
+      href: connectomics.html
+    - text: "Publications"
+      href: publications.html
